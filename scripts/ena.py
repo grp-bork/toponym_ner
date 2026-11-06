@@ -20,6 +20,10 @@ FIELDS = "study_accession,secondary_study_accession,study_title,study_name,study
 def check_email(email):
     if not re.fullmatch(r"[^@\s]+@[^@\s]+\.[^@\s]+", email or ""):
         raise SystemExit(f"--email must be a contact e-mail address, not {email!r}")
+    # the reserved example domains (RFC 2606/6761), so the README's placeholder can't be copied as is
+    domain = email.rsplit("@", 1)[1].lower().rstrip(".")
+    if re.search(r"(^|\.)example\.(com|org|net)$|\.(example|test|invalid|localhost)$", domain):
+        raise SystemExit(f"--email must be your own contact address; {email!r} is a placeholder")
     return email
 
 
