@@ -10,7 +10,7 @@ A small benchmark and a ready-to-use script for finding geographic place names (
 ## Requirements
 
 - Python 3.9 or later
-- For the LLM scripts: an **OpenAI-compatible server** running an open-weights model. The benchmark used [vLLM](https://docs.vllm.ai/). Thinking is switched off with `chat_template_kwargs={"enable_thinking": false}` and capped with vLLM's `thinking_token_budget` request parameter. Servers that ignore these still run the scripts, but their results won't be comparable with the report.
+- For the LLM scripts: an **OpenAI-compatible server** running an open-weights model. The benchmark used [vLLM](https://docs.vllm.ai/). Thinking is switched off with `chat_template_kwargs={"enable_thinking": false}` and capped with vLLM's `thinking_token_budget` request parameter. Servers that ignore these still run the scripts, but their results won't be comparable with the report. The report's LLM results come from Qwen 3.8 27B in NVFP4 quantisation, on a shared vLLM deployment.
 - For the encoder baselines (optional): PyTorch, transformers, GLiNER, GLiNER2 and spaCy. They run on CPU.
 
 ```sh
@@ -57,11 +57,19 @@ The check confirms that the server is reachable and lists the model, that thinki
 .venv/bin/python scripts/ena_places.py --email you@example.org -o places.tsv -f accessions.txt
 ```
 
-The script accepts project (`PRJEB…`, `PRJNA…`, `PRJDB…`) and study (`ERP…`, `SRP…`, `DRP…`) accessions. The output is a TSV with one row per place:
+The script accepts project (`PRJEB…`, `PRJNA…`, `PRJDB…`) and study (`ERP…`, `SRP…`, `DRP…`) accessions. The output is a TSV with one row per place. Here is an excerpt from a run on five studies:
 
 | study_accession | secondary_study_accession | place | corrected | sampled |
 |---|---|---|---|---|
-| PRJEB19651 | ERP021705 | Malagasy Highlands | Malagasy Highlands | true |
+| PRJEB34393 | ERP117289 | Antartic | Antarctic | true |
+| PRJEB34393 | ERP117289 | McMurdo Dry Valleys | McMurdo Dry Valleys | true |
+| PRJEB33602 | ERP116408 | Porto of Leixões harbor | Port of Leixões Harbor | true |
+| PRJNA453402 | SRP142538 | Argentina | Argentina | true |
+| PRJNA453402 | SRP142538 | Europe | Europe | false |
+| PRJEB2962 | ERP001347 | Dead Sea | Dead Sea | true |
+| PRJEB2962 | ERP001347 | Red Sea | Red Sea | false |
+
+The two `false` rows are places the text names without sampling there. SRP142538 calls the studied pest "an emerging pest in Europe", but the samples come from Argentina. ERP001347 mentions a planned Red Sea–Dead Sea water conduit.
 
 - `place` is the name as written in the text, and `corrected` is its standard spelling.
 - `sampled` is `false` when the text names the place only for background, comparison, the origin of reference strains, a conference venue and the like.
