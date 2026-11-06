@@ -1,0 +1,202 @@
+{"id": "USER1", "split": "dev", "places": ["South Pacific Gyre"], "optional": []}
+{"id": "USER2", "split": "dev", "places": ["Arctic", "Disko Bay", "Uummannaq Fjord", "Vaigat Strait", "West Greenland"], "optional": []}
+{"id": "ERP021705", "split": "dev", "places": ["Madagascar Highlands", "Malagasy Highlands"], "optional": []}
+{"id": "ERP003683", "split": "dev", "places": [], "optional": []}
+{"id": "SRP066452", "split": "dev", "places": [], "optional": []}
+{"id": "SRP052557", "split": "dev", "places": ["Pakistan"], "optional": []}
+{"id": "SRP044193", "split": "dev", "places": [], "optional": []}
+{"id": "ERP107635", "split": "dev", "places": ["Europe"], "optional": []}
+{"id": "ERP020656", "split": "dev", "places": [], "optional": ["Earth", "Mars"]}
+{"id": "ERP016812", "split": "dev", "places": [], "optional": []}
+{"id": "SRP186150", "split": "dev", "places": [], "optional": []}
+{"id": "ERP005772", "split": "dev", "places": [], "optional": []}
+{"id": "ERP004846", "split": "dev", "places": [], "optional": []}
+{"id": "ERP014064", "split": "dev", "places": ["Campeche knolls", "Gulf of Mexico", "gulf of Mexico"], "optional": []}
+{"id": "SRP041262", "split": "dev", "places": [], "optional": []}
+{"id": "SRP049447", "split": "dev", "places": [], "optional": []}
+{"id": "SRP249622", "split": "dev", "places": [], "optional": []}
+{"id": "ERP003935", "split": "dev", "places": [], "optional": []}
+{"id": "SRP020500", "split": "dev", "places": ["Beringia", "Yukon"], "optional": []}
+{"id": "SRP182618", "split": "dev", "places": [], "optional": []}
+{"id": "SRP042990", "split": "dev", "places": [], "optional": []}
+{"id": "SRP200877", "split": "dev", "places": ["South China Sea"], "optional": []}
+{"id": "SRP069959", "split": "dev", "places": [], "optional": ["Swiss"]}
+{"id": "DRP003766", "split": "dev", "places": ["Gobi Desert", "Mongolia", "Tsogt-Ovoo"], "optional": ["Asian", "Chinese"]}
+{"id": "ERP111090", "split": "dev", "places": [], "optional": ["Australian"]}
+{"id": "SRP186360", "split": "dev", "places": [], "optional": []}
+{"id": "SRP107124", "split": "dev", "places": [], "optional": []}
+{"id": "ERP116173", "split": "dev", "places": ["Gulf of Mexico"], "optional": []}
+{"id": "SRP033298", "split": "dev", "places": [], "optional": []}
+{"id": "SRP106581", "split": "dev", "places": [], "optional": []}
+{"id": "ERP013416", "split": "dev", "places": [], "optional": []}
+{"id": "SRP150118", "split": "dev", "places": [], "optional": []}
+{"id": "ERP016854", "split": "dev", "places": ["Mary Lake", "Wisconsin"], "optional": []}
+{"id": "SRP132764", "split": "dev", "places": [], "optional": []}
+{"id": "SRP117671", "split": "dev", "places": [], "optional": []}
+{"id": "SRP057601", "split": "dev", "places": [], "optional": []}
+{"id": "ERP007115", "split": "dev", "places": ["Mexico", "Veracruz"], "optional": []}
+{"id": "SRP214546", "split": "dev", "places": ["St. Thomas", "Virgin Islands"], "optional": []}
+{"id": "ERP105924", "split": "dev", "places": [], "optional": []}
+{"id": "SRP149992", "split": "dev", "places": [], "optional": []}
+{"id": "ERP016252", "split": "dev", "places": [], "optional": []}
+{"id": "SRP076834", "split": "dev", "places": [], "optional": []}
+{"id": "SRP128600", "split": "test", "places": [], "optional": []}
+{"id": "ERP119704", "split": "test", "places": ["Cagliari", "Crete", "El Kantaoui", "Greece", "Heraklion", "Italy", "Mediterranean", "Sardinia", "Tunisia"], "optional": ["EU"]}
+{"id": "ERP010681", "split": "test", "places": [], "optional": []}
+{"id": "ERP004724", "split": "test", "places": ["Egypt", "Greece", "Gulf of Genoa", "Mediterranean sea", "Morocco", "Syracuse", "Tunisia", "strait of Messina"], "optional": []}
+{"id": "SRP047237", "split": "test", "places": [], "optional": ["European"]}
+{"id": "SRP071118", "split": "test", "places": [], "optional": []}
+{"id": "ERP016287", "split": "test", "places": ["North Atlantic"], "optional": []}
+{"id": "ERP020570", "split": "test", "places": [], "optional": []}
+{"id": "SRP216938", "split": "test", "places": ["China"], "optional": []}
+{"id": "SRP127288", "split": "test", "places": [], "optional": []}
+{"id": "ERP115279", "split": "test", "places": [], "optional": []}
+{"id": "SRP136586", "split": "test", "places": [], "optional": []}
+{"id": "SRP128619", "split": "test", "places": [], "optional": []}
+{"id": "SRP041165", "split": "test", "places": ["Yellow Sea Large Marine Ecosystem"], "optional": []}
+{"id": "SRP056494", "split": "test", "places": [], "optional": []}
+{"id": "ERP009069", "split": "test", "places": [], "optional": []}
+{"id": "ERP117289", "split": "test", "places": ["Antartic", "East Antarctica", "McMurdo Dry Valleys", "Victoria Land"], "optional": []}
+{"id": "SRP294383", "split": "test", "places": ["Alaskan Arctic", "Arctic"], "optional": []}
+{"id": "ERP115364", "split": "test", "places": ["Colombia"], "optional": ["Andean", "Colombian"]}
+{"id": "SRP201188", "split": "test", "places": [], "optional": []}
+{"id": "SRP150262", "split": "test", "places": [], "optional": []}
+{"id": "SRP064269", "split": "test", "places": ["China"], "optional": []}
+{"id": "SRP042723", "split": "test", "places": ["Georgia", "New York", "North Carolina", "USA"], "optional": []}
+{"id": "SRP106886", "split": "test", "places": ["China", "Dongjiang River"], "optional": []}
+{"id": "ERP009666", "split": "test", "places": [], "optional": []}
+{"id": "SRP050037", "split": "test", "places": [], "optional": []}
+{"id": "SRP092498", "split": "test", "places": ["Mainland China", "Taiwan"], "optional": []}
+{"id": "SRP165882", "split": "test", "places": ["China"], "optional": ["northeast China"]}
+{"id": "SRP058014", "split": "test", "places": ["Carter Caves State Resort Park", "Cascade Cave", "Kentucky", "United States"], "optional": []}
+{"id": "ERP010292", "split": "test", "places": ["Europe", "Gulf of Naples", "Italy", "Sarno River"], "optional": []}
+{"id": "SRP041510", "split": "test", "places": [], "optional": []}
+{"id": "SRP082976", "split": "test", "places": [], "optional": []}
+{"id": "SRP019913", "split": "test", "places": ["Atlantis-II", "Red Sea"], "optional": []}
+{"id": "SRP257280", "split": "test", "places": ["Egypt"], "optional": ["North coast", "North coast of Egypt"]}
+{"id": "SRP158467", "split": "test", "places": [], "optional": []}
+{"id": "SRP201963", "split": "test", "places": [], "optional": []}
+{"id": "ERP109355", "split": "test", "places": [], "optional": []}
+{"id": "SRP059258", "split": "test", "places": [], "optional": []}
+{"id": "SRP062236", "split": "test", "places": ["Arctic Ocean", "Baffin Bay", "Hudson Bay", "Laptev Sea", "canadian Archipelago"], "optional": []}
+{"id": "SRP052878", "split": "test", "places": [], "optional": []}
+{"id": "SRP191566", "split": "test", "places": [], "optional": []}
+{"id": "SRP161734", "split": "test", "places": ["China"], "optional": []}
+{"id": "SRP123355", "split": "test", "places": ["Pyrenees", "Spain"], "optional": ["Pyrenees mountains"]}
+{"id": "ERP106916", "split": "test", "places": [], "optional": []}
+{"id": "SRP265081", "split": "test", "places": [], "optional": []}
+{"id": "SRP251479", "split": "test", "places": [], "optional": []}
+{"id": "ERP018174", "split": "test", "places": ["Armenia", "Georgia"], "optional": []}
+{"id": "ERP004551", "split": "test", "places": [], "optional": []}
+{"id": "ERP104836", "split": "test", "places": ["Blue Mountains"], "optional": ["Blue Mountains Swamp"]}
+{"id": "ERP114134", "split": "test", "places": ["Red Sea"], "optional": []}
+{"id": "ERP111299", "split": "test", "places": [], "optional": []}
+{"id": "ERP008525", "split": "test", "places": [], "optional": []}
+{"id": "SRP139569", "split": "test", "places": [], "optional": []}
+{"id": "SRP150841", "split": "test", "places": ["Antarctic", "Western Antarctic"], "optional": []}
+{"id": "SRP224124", "split": "test", "places": [], "optional": []}
+{"id": "SRP297086", "split": "test", "places": ["Zambia", "sub-Saharan Africa"], "optional": []}
+{"id": "SRP057681", "split": "test", "places": ["Ladakh"], "optional": []}
+{"id": "DRP004345", "split": "test", "places": ["Japan", "Tohoku"], "optional": []}
+{"id": "ERP023684", "split": "test", "places": ["China", "Shenzhen"], "optional": []}
+{"id": "SRP076858", "split": "test", "places": [], "optional": []}
+{"id": "SRP185841", "split": "test", "places": [], "optional": []}
+{"id": "ERP117053", "split": "test", "places": [], "optional": []}
+{"id": "SRP217328", "split": "test", "places": [], "optional": []}
+{"id": "DRP003340", "split": "test", "places": [], "optional": []}
+{"id": "SRP056463", "split": "test", "places": [], "optional": []}
+{"id": "SRP258767", "split": "test", "places": [], "optional": []}
+{"id": "ERP121685", "split": "test", "places": [], "optional": []}
+{"id": "SRP254588", "split": "test", "places": [], "optional": ["Koean"]}
+{"id": "ERP021438", "split": "test", "places": ["Canada", "Ontario"], "optional": []}
+{"id": "SRP078817", "split": "test", "places": [], "optional": []}
+{"id": "SRP142538", "split": "test", "places": ["Argentina", "Europe"], "optional": []}
+{"id": "ERP114530", "split": "test", "places": [], "optional": []}
+{"id": "SRP300078", "split": "test", "places": ["China"], "optional": []}
+{"id": "DRP003170", "split": "test", "places": ["Japan"], "optional": []}
+{"id": "SRP105154", "split": "test", "places": [], "optional": []}
+{"id": "SRP244970", "split": "test", "places": ["Canada", "Lake Superior", "Ontario"], "optional": []}
+{"id": "ERP001911", "split": "test", "places": ["Malawi"], "optional": ["Malawian"]}
+{"id": "ERP021869", "split": "test", "places": [], "optional": []}
+{"id": "SRP124571", "split": "test", "places": ["Tunisia"], "optional": []}
+{"id": "SRP093207", "split": "test", "places": [], "optional": []}
+{"id": "SRP045539", "split": "test", "places": [], "optional": []}
+{"id": "ERP010081", "split": "test", "places": [], "optional": ["Antarctic", "Trans-Antarctic"]}
+{"id": "SRP049931", "split": "test", "places": ["Loki's Castle"], "optional": []}
+{"id": "ERP016592", "split": "test", "places": [], "optional": ["Californian"]}
+{"id": "SRP235423", "split": "test", "places": [], "optional": []}
+{"id": "ERP012207", "split": "test", "places": [], "optional": []}
+{"id": "SRP278043", "split": "test", "places": [], "optional": []}
+{"id": "ERP106282", "split": "test", "places": ["NZ", "New Zealand"], "optional": []}
+{"id": "ERP106917", "split": "test", "places": [], "optional": []}
+{"id": "SRP230101", "split": "test", "places": ["Kandalaksha Gulf", "White Sea"], "optional": []}
+{"id": "ERP116408", "split": "test", "places": ["Northern Portugal", "Porto of Leixões"], "optional": ["Leixões", "Porto"]}
+{"id": "SRP291734", "split": "test", "places": [], "optional": []}
+{"id": "SRP186783", "split": "test", "places": [], "optional": []}
+{"id": "SRP041660", "split": "test", "places": ["Atlantic Oceans", "Southern"], "optional": []}
+{"id": "SRP026054", "split": "test", "places": [], "optional": []}
+{"id": "SRP097098", "split": "test", "places": [], "optional": []}
+{"id": "SRP141613", "split": "test", "places": [], "optional": []}
+{"id": "SRP186792", "split": "test", "places": ["Cayman Rise", "Guaymas Basin", "Lau Basin"], "optional": ["Cayman", "Cayman_vent_fluid"]}
+{"id": "SRP277430", "split": "test", "places": [], "optional": []}
+{"id": "SRP202102", "split": "test", "places": [], "optional": ["Syrian"]}
+{"id": "ERP021493", "split": "test", "places": ["Anemone vent", "Axial Seamount", "Axial seamount", "Pacific Ocean"], "optional": []}
+{"id": "SRP052861", "split": "test", "places": ["Crimean"], "optional": []}
+{"id": "SRP044320", "split": "test", "places": ["Alatsee"], "optional": []}
+{"id": "ERP009148", "split": "test", "places": [], "optional": []}
+{"id": "SRP115090", "split": "test", "places": ["Democracia", "Falcon", "Lara", "Paraguaná peninsula", "South America", "Sucre", "Urumaco", "Venezuela"], "optional": ["American", "San Joaquin Valley"]}
+{"id": "ERP001347", "split": "test", "places": ["Dead Sea", "Red Sea"], "optional": ["Dead Sea Group"]}
+{"id": "SRP049062", "split": "test", "places": [], "optional": []}
+{"id": "DRP003904", "split": "test", "places": ["Japan"], "optional": []}
+{"id": "ERP009032", "split": "test", "places": ["AK", "Alaskan", "OK", "Oklahoma"], "optional": []}
+{"id": "ERP010382", "split": "test", "places": [], "optional": []}
+{"id": "SRP051017", "split": "test", "places": [], "optional": []}
+{"id": "ERP010753", "split": "test", "places": [], "optional": []}
+{"id": "ERP005634", "split": "test", "places": [], "optional": []}
+{"id": "SRP114443", "split": "test", "places": ["Canada", "China", "Lake Erie", "Lake Shenandoah", "Lake Tai", "US", "Virginia"], "optional": ["US-Canada"]}
+{"id": "SRP272881", "split": "test", "places": ["Jerusalem", "Latvia", "Riga"], "optional": []}
+{"id": "SRP043068", "split": "test", "places": [], "optional": []}
+{"id": "SRP070632", "split": "test", "places": ["Mediterranean"], "optional": []}
+{"id": "SRP234648", "split": "test", "places": [], "optional": []}
+{"id": "SRP033136", "split": "test", "places": [], "optional": ["BATS"]}
+{"id": "ERP107634", "split": "test", "places": ["Europe"], "optional": []}
+{"id": "SRP226748", "split": "test", "places": [], "optional": []}
+{"id": "SRP048746", "split": "test", "places": [], "optional": []}
+{"id": "SRP173090", "split": "test", "places": [], "optional": []}
+{"id": "ERP125879", "split": "test", "places": [], "optional": ["Pacific Northwest National Laboratory"]}
+{"id": "ERP015961", "split": "test", "places": ["Jhapa", "Kathmandu", "Nepal"], "optional": []}
+{"id": "SRP193724", "split": "test", "places": [], "optional": []}
+{"id": "SRP127480", "split": "test", "places": [], "optional": []}
+{"id": "SRP187524", "split": "test", "places": [], "optional": []}
+{"id": "SRP163209", "split": "test", "places": [], "optional": []}
+{"id": "SRP223108", "split": "test", "places": ["Michigan", "Wisconsin"], "optional": []}
+{"id": "ERP009244", "split": "test", "places": ["Egypt", "US", "United States"], "optional": []}
+{"id": "ERP019482", "split": "test", "places": ["Andes", "Atacama Desert", "Chile"], "optional": []}
+{"id": "ERP010900", "split": "test", "places": [], "optional": []}
+{"id": "SRP166309", "split": "test", "places": ["Singapore"], "optional": ["Singapore Coastal Waters"]}
+{"id": "SRP097192", "split": "test", "places": ["South China Sea"], "optional": []}
+{"id": "ERP104414", "split": "test", "places": ["Kingman", "Northern Line Islands", "Pacific"], "optional": []}
+{"id": "SRP053269", "split": "test", "places": ["Hong Kong"], "optional": ["Stanley"]}
+{"id": "SRP014440", "split": "test", "places": ["Iberian Peninsula"], "optional": []}
+{"id": "SRP200277", "split": "test", "places": [], "optional": []}
+{"id": "ERP108585", "split": "test", "places": [], "optional": []}
+{"id": "SRP013887", "split": "test", "places": [], "optional": []}
+{"id": "SRP215916", "split": "test", "places": ["Atacama Desert"], "optional": []}
+{"id": "SRP055429", "split": "test", "places": [], "optional": []}
+{"id": "ERP014651", "split": "test", "places": ["United States"], "optional": []}
+{"id": "SRP198185", "split": "test", "places": [], "optional": []}
+{"id": "ERP019367", "split": "test", "places": ["Australia", "Bundera sinkhole"], "optional": []}
+{"id": "ERP012508", "split": "test", "places": ["Arctic", "Greenland"], "optional": []}
+{"id": "ERP002102", "split": "test", "places": ["Canterbury Basin", "Canterbury basin", "New Zealand"], "optional": []}
+{"id": "SRP050425", "split": "test", "places": [], "optional": []}
+{"id": "ERP117057", "split": "test", "places": ["Australia"], "optional": ["Australian"]}
+{"id": "SRP171601", "split": "test", "places": ["Luzon", "South China Sea"], "optional": []}
+{"id": "SRP242224", "split": "test", "places": [], "optional": []}
+{"id": "SRP026304", "split": "test", "places": [], "optional": []}
+{"id": "ERP116250", "split": "test", "places": ["Canada", "Kam Kotia Mine", "Ontario", "Timmins"], "optional": ["ON"]}
+{"id": "SRP150223", "split": "test", "places": [], "optional": []}
+{"id": "DRP002783", "split": "test", "places": ["Japan"], "optional": []}
+{"id": "SRP166545", "split": "test", "places": ["Pacific Ocean"], "optional": ["Deep Pacific Ocean"]}
+{"id": "SRP058955", "split": "test", "places": ["Atacama Desert"], "optional": []}
+{"id": "SRP219287", "split": "test", "places": ["China", "Qilian Mountain"], "optional": []}
+{"id": "SRP065986", "split": "test", "places": ["Loki´s Castle Vent Field"], "optional": ["Barite Field"]}

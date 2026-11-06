@@ -1,0 +1,228 @@
+{"id": "USER1", "place": "South Pacific Gyre", "label": "sampled", "evidence": "cruise which traversed the South Pacific Gyre. A total of 11 stations were sampled", "note": ""}
+{"id": "USER2", "place": "Arctic", "label": "sampled", "evidence": "coastal waters of West Greenland", "note": "Arctic region contains sampled West Greenland; also general background."}
+{"id": "USER2", "place": "Disko Bay", "label": "sampled", "evidence": "molecular biodiversity ... in coastal waters of West Greenland ... Uummannaq Fjord, Vaigat Strait and Disko Bay", "note": ""}
+{"id": "USER2", "place": "Uummannaq Fjord", "label": "sampled", "evidence": "molecular biodiversity ... in coastal waters of West Greenland ... Uummannaq Fjord, Vaigat Strait and Disko Bay", "note": ""}
+{"id": "USER2", "place": "Vaigat Strait", "label": "sampled", "evidence": "molecular biodiversity ... in coastal waters of West Greenland ... Uummannaq Fjord, Vaigat Strait and Disko Bay", "note": ""}
+{"id": "USER2", "place": "West Greenland", "label": "sampled", "evidence": "molecular biodiversity ... in coastal waters of West Greenland ... Uummannaq Fjord, Vaigat Strait and Disko Bay", "note": ""}
+{"id": "ERP021705", "place": "Madagascar Highlands", "label": "sampled", "evidence": "Soils were sampled along climatic gradients ... Malagasy Highlands", "note": ""}
+{"id": "ERP021705", "place": "Malagasy Highlands", "label": "sampled", "evidence": "Soils were sampled along climatic gradients ... Malagasy Highlands", "note": ""}
+{"id": "SRP052557", "place": "Pakistan", "label": "sampled", "evidence": "two extreme habitats in Pakistan", "note": ""}
+{"id": "ERP107635", "place": "Europe", "label": "sampled", "evidence": "382 plant individuals collected across Europe", "note": ""}
+{"id": "ERP020656", "place": "Earth", "label": "not_sampled", "evidence": "Studying extreme terrestrial environments on Earth", "note": "General background, not a sampling location."}
+{"id": "ERP020656", "place": "Mars", "label": "not_sampled", "evidence": "Mars-analogue environments", "note": "Analogue planet, samples are terrestrial."}
+{"id": "ERP014064", "place": "Campeche knolls", "label": "sampled", "evidence": "Invertebrates ... at ca. 3000 m deep oil seeps at Campeche knolls, southern gulf of Mexico", "note": ""}
+{"id": "ERP014064", "place": "Gulf of Mexico", "label": "sampled", "evidence": "Invertebrates ... at ca. 3000 m deep oil seeps at Campeche knolls, southern gulf of Mexico", "note": ""}
+{"id": "ERP014064", "place": "gulf of Mexico", "label": "sampled", "evidence": "Invertebrates ... at ca. 3000 m deep oil seeps at Campeche knolls, southern gulf of Mexico", "note": ""}
+{"id": "SRP020500", "place": "Beringia", "label": "unclear", "evidence": "eastern Beringia was dominated by grasses and forbs during cold stages of the Pleistocene", "note": "Mentioned as past-vegetation comparison; sample origin not stated."}
+{"id": "SRP020500", "place": "Yukon", "label": "unclear", "evidence": "a habitat that is restricted to isolated sites in the present day Yukon", "note": "Likely sample origin but not explicitly stated."}
+{"id": "SRP200877", "place": "South China Sea", "label": "sampled", "evidence": "archaeal communities along the water columns of the South China Sea", "note": ""}
+{"id": "SRP069959", "place": "Swiss", "label": "sampled", "evidence": "fungal highway columns placed in Swiss soils", "note": ""}
+{"id": "DRP003766", "place": "Gobi Desert", "label": "sampled", "evidence": "sampling site located in desert area (Tsogt-Ovoo of Gobi Desert, Mongolia", "note": ""}
+{"id": "DRP003766", "place": "Mongolia", "label": "sampled", "evidence": "sampling site located in desert area (Tsogt-Ovoo of Gobi Desert, Mongolia", "note": ""}
+{"id": "DRP003766", "place": "Tsogt-Ovoo", "label": "sampled", "evidence": "sampling site located in desert area (Tsogt-Ovoo of Gobi Desert, Mongolia", "note": ""}
+{"id": "DRP003766", "place": "Asian", "label": "not_sampled", "evidence": "Asian dust events transport the airborne bacteria", "note": "Background on dust events."}
+{"id": "DRP003766", "place": "Chinese", "label": "not_sampled", "evidence": "airborne bacteria in Chinese desert regions", "note": "Background; samples are from Mongolia."}
+{"id": "ERP111090", "place": "Australian", "label": "unclear", "evidence": "may be specific to an Australian population", "note": "Implies children are Australian, but sampling location not stated."}
+{"id": "ERP116173", "place": "Gulf of Mexico", "label": "sampled", "evidence": "Deep-sea sediment samples collected from the northern Gulf of Mexico", "note": ""}
+{"id": "ERP016854", "place": "Mary Lake", "label": "sampled", "evidence": "Mary Lake in northern Wisconsin ... time series in 2009", "note": ""}
+{"id": "ERP016854", "place": "Wisconsin", "label": "sampled", "evidence": "Mary Lake in northern Wisconsin ... time series in 2009", "note": ""}
+{"id": "ERP007115", "place": "Mexico", "label": "sampled", "evidence": "five different cities of the state of Veracruz, Mexico were studied", "note": ""}
+{"id": "ERP007115", "place": "Veracruz", "label": "sampled", "evidence": "five different cities of the state of Veracruz, Mexico were studied", "note": ""}
+{"id": "SRP214546", "place": "St. Thomas", "label": "sampled", "evidence": "samples collected near St. Thomas", "note": ""}
+{"id": "SRP214546", "place": "Virgin Islands", "label": "sampled", "evidence": "samples collected near St. Thomas", "note": ""}
+{"id": "ERP119704", "place": "Cagliari", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Crete", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "El Kantaoui", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Greece", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Heraklion", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Italy", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Mediterranean", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Sardinia", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "Tunisia", "label": "sampled", "evidence": "sampling campaign was performed in three Mediterranean ports: Cagliari, (Sardinia, Italy), El Kantaoui (Tunisia), and Heraklion (Crete, Greece)", "note": ""}
+{"id": "ERP119704", "place": "EU", "label": "not_sampled", "evidence": "Within the EU legislation, the peculiar features of ports justify", "note": "Regulatory context only."}
+{"id": "ERP004724", "place": "Egypt", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "Greece", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "Gulf of Genoa", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "Mediterranean sea", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "Morocco", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "Syracuse", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "Tunisia", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "ERP004724", "place": "strait of Messina", "label": "sampled", "evidence": "polluted sites on the coastlines of Morocco, Tunisia, Egypt and Greece and ... Gulf of Genoa, strait of Messina and Syracuse", "note": ""}
+{"id": "SRP047237", "place": "European", "label": "unclear", "evidence": "microbiota associated to epidermal mucus from European eel", "note": "Species descriptor; sampling location not stated."}
+{"id": "ERP016287", "place": "North Atlantic", "label": "sampled", "evidence": "research cruise ... repeat of WOCE line A20 (longitude 52W) ... water samples were collected", "note": "Title and cruise line imply North Atlantic."}
+{"id": "SRP216938", "place": "China", "label": "sampled", "evidence": "four cropping systems of maize across China", "note": ""}
+{"id": "SRP041165", "place": "Yellow Sea Large Marine Ecosystem", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP117289", "place": "Antartic", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP117289", "place": "East Antarctica", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP117289", "place": "McMurdo Dry Valleys", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP117289", "place": "Victoria Land", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP294383", "place": "Alaskan Arctic", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP294383", "place": "Arctic", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP115364", "place": "Colombia", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP115364", "place": "Andean", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP115364", "place": "Colombian", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP064269", "place": "China", "label": "unclear", "evidence": "intensive vegetable production systems in China", "note": "Background on Chinese agriculture; the greenhouse location is not stated, though probably China."}
+{"id": "SRP042723", "place": "Georgia", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP042723", "place": "New York", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP042723", "place": "North Carolina", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP042723", "place": "USA", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP106886", "place": "China", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP106886", "place": "Dongjiang River", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP092498", "place": "Mainland China", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP092498", "place": "Taiwan", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP165882", "place": "China", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP165882", "place": "northeast China", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP058014", "place": "Carter Caves State Resort Park", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP058014", "place": "Cascade Cave", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP058014", "place": "Kentucky", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP058014", "place": "United States", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP010292", "place": "Europe", "label": "not_sampled", "evidence": "the Sarno River, the most polluted river in Europe", "note": "Background superlative; samples are from the Gulf of Naples."}
+{"id": "ERP010292", "place": "Gulf of Naples", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP010292", "place": "Italy", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP010292", "place": "Sarno River", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP019913", "place": "Atlantis-II", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP019913", "place": "Red Sea", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP257280", "place": "Egypt", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP257280", "place": "North coast", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP257280", "place": "North coast of Egypt", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP062236", "place": "Arctic Ocean", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP062236", "place": "Baffin Bay", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP062236", "place": "Hudson Bay", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP062236", "place": "Laptev Sea", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP062236", "place": "canadian Archipelago", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP161734", "place": "China", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP123355", "place": "Pyrenees", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP123355", "place": "Spain", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP123355", "place": "Pyrenees mountains", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP018174", "place": "Armenia", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP018174", "place": "Georgia", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP104836", "place": "Blue Mountains", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP104836", "place": "Blue Mountains Swamp", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP114134", "place": "Red Sea", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP150841", "place": "Antarctic", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP150841", "place": "Western Antarctic", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP297086", "place": "Zambia", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP297086", "place": "sub-Saharan Africa", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "SRP057681", "place": "Ladakh", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "DRP004345", "place": "Japan", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "DRP004345", "place": "Tohoku", "label": "sampled", "evidence": "", "note": "Sampling site or a region containing it (checked by hand)."}
+{"id": "ERP023684", "place": "China", "label": "not_sampled", "evidence": "Samples presented at EMP conference Shenzhen, China, June 2011", "note": "Country of the conference venue; sample origin not given."}
+{"id": "ERP023684", "place": "Shenzhen", "label": "not_sampled", "evidence": "Samples presented at EMP conference Shenzhen, China, June 2011", "note": "Conference venue, not where the samples were collected."}
+{"id": "SRP254588", "place": "Koean", "label": "sampled", "evidence": "native to Koean geology", "note": "Soil sampled in Korea (typo)."}
+{"id": "ERP021438", "place": "Canada", "label": "sampled", "evidence": "six regions in southern Ontario, Canada", "note": ""}
+{"id": "ERP021438", "place": "Ontario", "label": "sampled", "evidence": "six regions in southern Ontario, Canada", "note": ""}
+{"id": "SRP142538", "place": "Argentina", "label": "sampled", "evidence": "three locations in Argentina", "note": ""}
+{"id": "SRP142538", "place": "Europe", "label": "not_sampled", "evidence": "an emerging pest in Europe", "note": "Background on pest range."}
+{"id": "SRP300078", "place": "China", "label": "sampled", "evidence": "Mangroves in southern China", "note": ""}
+{"id": "DRP003170", "place": "Japan", "label": "sampled", "evidence": "subtropical forest in Japan", "note": ""}
+{"id": "SRP244970", "place": "Canada", "label": "sampled", "evidence": "fresh water in Lake Superior, Ontario, Canada", "note": ""}
+{"id": "SRP244970", "place": "Lake Superior", "label": "sampled", "evidence": "fresh water in Lake Superior", "note": ""}
+{"id": "SRP244970", "place": "Ontario", "label": "sampled", "evidence": "Lake Superior, Ontario, Canada", "note": ""}
+{"id": "ERP001911", "place": "Malawi", "label": "sampled", "evidence": "we studied 317 Malawian twins", "note": "Twins from Malawi; also Malawi diet."}
+{"id": "ERP001911", "place": "Malawian", "label": "sampled", "evidence": "we studied 317 Malawian twins", "note": ""}
+{"id": "SRP124571", "place": "Tunisia", "label": "sampled", "evidence": "transect in Tunisia", "note": ""}
+{"id": "ERP010081", "place": "Antarctic", "label": "sampled", "evidence": "expedition members of the Trans-Antarctic Winter Traverse gave stool and saliva samples", "note": ""}
+{"id": "ERP010081", "place": "Trans-Antarctic", "label": "sampled", "evidence": "Trans-Antarctic Winter Traverse ... gave stool and saliva samples", "note": ""}
+{"id": "SRP049931", "place": "Loki's Castle", "label": "sampled", "evidence": "Loki's Castle Metagenome; Deep-Sea hydrothermal vent biofilm", "note": ""}
+{"id": "ERP016592", "place": "Californian", "label": "sampled", "evidence": "Californian_Grassland_soil_incubated", "note": ""}
+{"id": "ERP106282", "place": "NZ", "label": "sampled", "evidence": "extinct moa and kakapo parrot from New Zealand (NZ)", "note": ""}
+{"id": "ERP106282", "place": "New Zealand", "label": "sampled", "evidence": "coprolites ... from New Zealand (NZ)", "note": ""}
+{"id": "SRP230101", "place": "Kandalaksha Gulf", "label": "sampled", "evidence": "aquatic ecosystems of Kandalaksha Gulf (White Sea)", "note": ""}
+{"id": "SRP230101", "place": "White Sea", "label": "sampled", "evidence": "Kandalaksha Gulf (White Sea)", "note": ""}
+{"id": "ERP116408", "place": "Northern Portugal", "label": "sampled", "evidence": "Porto of Leixões harbor in Northern Portugal", "note": ""}
+{"id": "ERP116408", "place": "Porto of Leixões", "label": "sampled", "evidence": "Porto of Leixões harbor", "note": ""}
+{"id": "ERP116408", "place": "Leixões", "label": "sampled", "evidence": "Porto of Leixões harbor", "note": ""}
+{"id": "ERP116408", "place": "Porto", "label": "sampled", "evidence": "Porto of Leixões harbor", "note": ""}
+{"id": "SRP041660", "place": "Atlantic Oceans", "label": "sampled", "evidence": "four distant locations in the Southern and Atlantic Oceans", "note": ""}
+{"id": "SRP041660", "place": "Southern", "label": "sampled", "evidence": "Southern and Atlantic Oceans", "note": ""}
+{"id": "SRP186792", "place": "Cayman Rise", "label": "sampled", "evidence": "hydrothermal plume metagenomes (Guaymas Basin, Cayman Rise and Lau Basin)", "note": ""}
+{"id": "SRP186792", "place": "Guaymas Basin", "label": "sampled", "evidence": "Guaymas Basin, Cayman Rise and Lau Basin", "note": ""}
+{"id": "SRP186792", "place": "Lau Basin", "label": "sampled", "evidence": "Guaymas Basin, Cayman Rise and Lau Basin", "note": ""}
+{"id": "SRP186792", "place": "Cayman", "label": "sampled", "evidence": "Cayman_vent_fluid metagenomes", "note": ""}
+{"id": "SRP186792", "place": "Cayman_vent_fluid", "label": "sampled", "evidence": "Cayman_vent_fluid metagenomes", "note": ""}
+{"id": "SRP202102", "place": "Syrian", "label": "unclear", "evidence": "black Syrian hamster (Mesocricetus auratus)", "note": "Host breed name; origin of sample not stated."}
+{"id": "ERP021493", "place": "Anemone vent", "label": "sampled", "evidence": "hydrothermal plume above Anemone vent", "note": ""}
+{"id": "ERP021493", "place": "Axial Seamount", "label": "sampled", "evidence": "Samples were collected in 2015 ... at Axial seamount", "note": ""}
+{"id": "ERP021493", "place": "Axial seamount", "label": "sampled", "evidence": "Samples were collected in 2015 ... at Axial seamount", "note": ""}
+{"id": "ERP021493", "place": "Pacific Ocean", "label": "sampled", "evidence": "Axial seamount, located in the northeast Pacific Ocean", "note": ""}
+{"id": "SRP052861", "place": "Crimean", "label": "sampled", "evidence": "microbial composition in two Crimean caves", "note": ""}
+{"id": "SRP044320", "place": "Alatsee", "label": "sampled", "evidence": "Samples collected along the stratification gradient of a meromictic lake", "note": "Title names Alatsee lake."}
+{"id": "SRP115090", "place": "Democracia", "label": "sampled", "evidence": "Highly positive areas were found in Urumaco, Sucre and Democracia", "note": ""}
+{"id": "SRP115090", "place": "Falcon", "label": "sampled", "evidence": "Lara and Falcon states of Venezuela", "note": ""}
+{"id": "SRP115090", "place": "Lara", "label": "sampled", "evidence": "Lara and Falcon states of Venezuela", "note": ""}
+{"id": "SRP115090", "place": "Paraguaná peninsula", "label": "sampled", "evidence": "coastal plains of the Paraguaná peninsula", "note": ""}
+{"id": "SRP115090", "place": "South America", "label": "not_sampled", "evidence": "majority of clinical isolates recovered from South America", "note": "Background on species distribution."}
+{"id": "SRP115090", "place": "Sucre", "label": "sampled", "evidence": "Urumaco, Sucre and Democracia municipalities", "note": ""}
+{"id": "SRP115090", "place": "Urumaco", "label": "sampled", "evidence": "Urumaco, Sucre and Democracia municipalities", "note": ""}
+{"id": "SRP115090", "place": "Venezuela", "label": "sampled", "evidence": "soils in endemic areas ... in Venezuela", "note": ""}
+{"id": "SRP115090", "place": "American", "label": "not_sampled", "evidence": "arid and semi-arid regions of the American continent", "note": "Background distribution of fungi."}
+{"id": "SRP115090", "place": "San Joaquin Valley", "label": "not_sampled", "evidence": "disease coccidioidomycosis (San Joaquin Valley fever)", "note": "Disease name."}
+{"id": "ERP001347", "place": "Dead Sea", "label": "sampled", "evidence": "underwater springs in the Dead Sea", "note": ""}
+{"id": "ERP001347", "place": "Red Sea", "label": "not_sampled", "evidence": "intended establishment of the Red SeaDead Sea water conduit", "note": "Future infrastructure plan."}
+{"id": "ERP001347", "place": "Dead Sea Group", "label": "unclear", "evidence": "spring community originates from the Dead Sea Group sediments", "note": "Geological formation; sampling of it implied but unclear."}
+{"id": "DRP003904", "place": "Japan", "label": "sampled", "evidence": "petal of Prunus Yedoensis in Japan", "note": ""}
+{"id": "ERP009032", "place": "AK", "label": "sampled", "evidence": "Alaskan (AK) permafrost soils", "note": ""}
+{"id": "ERP009032", "place": "Alaskan", "label": "sampled", "evidence": "Alaskan (AK) permafrost soils", "note": ""}
+{"id": "ERP009032", "place": "OK", "label": "sampled", "evidence": "Oklahoma (OK) tallgrass prairie", "note": ""}
+{"id": "ERP009032", "place": "Oklahoma", "label": "sampled", "evidence": "Oklahoma (OK) tallgrass prairie", "note": ""}
+{"id": "SRP114443", "place": "Lake Erie", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "Lake Tai", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "Lake Shenandoah", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "Canada", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "China", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "US", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "Virginia", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP114443", "place": "US-Canada", "label": "sampled", "evidence": "eutrophic lake environments (Lake Erie (US-Canada), Lake Tai (China), Lake Shenandoah (Virginia))", "note": "Sampled lakes and their regions."}
+{"id": "SRP272881", "place": "Riga", "label": "sampled", "evidence": "archaeological latrine sites in Riga (Latvia) and Jerusalem", "note": ""}
+{"id": "SRP272881", "place": "Latvia", "label": "sampled", "evidence": "archaeological latrine sites in Riga (Latvia) and Jerusalem", "note": ""}
+{"id": "SRP272881", "place": "Jerusalem", "label": "sampled", "evidence": "archaeological latrine sites in Riga (Latvia) and Jerusalem", "note": ""}
+{"id": "SRP070632", "place": "Mediterranean", "label": "sampled", "evidence": "study performed in Mediterranean semiarid environments", "note": ""}
+{"id": "SRP033136", "place": "BATS", "label": "sampled", "evidence": "BATS Metagenome", "note": "BATS (Bermuda Atlantic Time-series Study) is the sampling site, inferred from the title."}
+{"id": "ERP107634", "place": "Europe", "label": "sampled", "evidence": "382 plant individuals collected across Europe", "note": ""}
+{"id": "ERP125879", "place": "Pacific Northwest National Laboratory", "label": "not_sampled", "evidence": "soil samples stored at the Pacific Northwest National Laboratory", "note": "Storage institution, not sampling site."}
+{"id": "ERP015961", "place": "Nepal", "label": "sampled", "evidence": "water sources ... in Kathmandu (severe earthquake damage) and Jhapa (no earthquake damage)", "note": ""}
+{"id": "ERP015961", "place": "Kathmandu", "label": "sampled", "evidence": "water sources ... in Kathmandu (severe earthquake damage) and Jhapa (no earthquake damage)", "note": ""}
+{"id": "ERP015961", "place": "Jhapa", "label": "sampled", "evidence": "water sources ... in Kathmandu (severe earthquake damage) and Jhapa (no earthquake damage)", "note": ""}
+{"id": "SRP223108", "place": "Michigan", "label": "sampled", "evidence": "six marginal land sites in Wisconsin and Michigan", "note": ""}
+{"id": "SRP223108", "place": "Wisconsin", "label": "sampled", "evidence": "six marginal land sites in Wisconsin and Michigan", "note": ""}
+{"id": "ERP009244", "place": "US", "label": "sampled", "evidence": "healthy adolescents from United States and Egypt", "note": ""}
+{"id": "ERP009244", "place": "United States", "label": "sampled", "evidence": "healthy adolescents from United States and Egypt", "note": ""}
+{"id": "ERP009244", "place": "Egypt", "label": "sampled", "evidence": "healthy adolescents from United States and Egypt", "note": ""}
+{"id": "ERP019482", "place": "Atacama Desert", "label": "sampled", "evidence": "soils sampled along two elevational, west-east transects ... Atacama Desert ... Andes", "note": ""}
+{"id": "ERP019482", "place": "Chile", "label": "sampled", "evidence": "soils sampled along two elevational, west-east transects ... Atacama Desert ... Andes", "note": ""}
+{"id": "ERP019482", "place": "Andes", "label": "sampled", "evidence": "soils sampled along two elevational, west-east transects ... Atacama Desert ... Andes", "note": ""}
+{"id": "SRP166309", "place": "Singapore", "label": "sampled", "evidence": "Amplicon time-series at 5 locations ... Singapore", "note": ""}
+{"id": "SRP166309", "place": "Singapore Coastal Waters", "label": "sampled", "evidence": "Amplicon time-series at 5 locations ... Singapore", "note": ""}
+{"id": "SRP097192", "place": "South China Sea", "label": "sampled", "evidence": "marine sediments sampled during IODP expedition 349", "note": ""}
+{"id": "ERP104414", "place": "Kingman", "label": "sampled", "evidence": "four coral atolls in the Northern Line Islands, central Pacific", "note": ""}
+{"id": "ERP104414", "place": "Northern Line Islands", "label": "sampled", "evidence": "four coral atolls in the Northern Line Islands, central Pacific", "note": ""}
+{"id": "ERP104414", "place": "Pacific", "label": "sampled", "evidence": "four coral atolls in the Northern Line Islands, central Pacific", "note": ""}
+{"id": "SRP053269", "place": "Hong Kong", "label": "sampled", "evidence": "samples from a full-scale hybrid aerobic reactor in Stanley wastewater treatment plants of Hong Kong", "note": ""}
+{"id": "SRP053269", "place": "Stanley", "label": "sampled", "evidence": "samples from a full-scale hybrid aerobic reactor in Stanley wastewater treatment plants of Hong Kong", "note": ""}
+{"id": "SRP014440", "place": "Iberian Peninsula", "label": "unclear", "evidence": "The Iberian lynx is native to the Iberian Peninsula", "note": "Mentioned as species range; sample origin of the animal not stated."}
+{"id": "SRP215916", "place": "Atacama Desert", "label": "sampled", "evidence": "Microbiome Atacama Desert Equisetum", "note": "Title implies samples from Atacama; text minimal."}
+{"id": "ERP014651", "place": "United States", "label": "unclear", "evidence": "In the United States, humans spend the majority of their time indoors", "note": "Background statement; offices sampled in cities, country not explicit."}
+{"id": "ERP019367", "place": "Bundera sinkhole", "label": "sampled", "evidence": "Bundera sinkhole is an anchialine ecosystem located in north-western Australia", "note": ""}
+{"id": "ERP019367", "place": "Australia", "label": "sampled", "evidence": "Bundera sinkhole is an anchialine ecosystem located in north-western Australia", "note": ""}
+{"id": "ERP012508", "place": "Greenland", "label": "sampled", "evidence": "We studied bacteria in the atmosphere over southwest Greenland", "note": ""}
+{"id": "ERP012508", "place": "Arctic", "label": "sampled", "evidence": "The Arctic is undergoing dramatic climatic changes", "note": "Containing region of sampled Greenland, though phrased as background."}
+{"id": "ERP002102", "place": "Canterbury Basin", "label": "sampled", "evidence": "subseafloor of the Canterbury basin", "note": ""}
+{"id": "ERP002102", "place": "Canterbury basin", "label": "sampled", "evidence": "subseafloor of the Canterbury basin", "note": ""}
+{"id": "ERP002102", "place": "New Zealand", "label": "sampled", "evidence": "subseafloor of the Canterbury basin", "note": ""}
+{"id": "ERP117057", "place": "Australia", "label": "sampled", "evidence": "Samples were collected from meat processing abattoirs in Australia", "note": ""}
+{"id": "ERP117057", "place": "Australian", "label": "sampled", "evidence": "Samples were collected from meat processing abattoirs in Australia", "note": ""}
+{"id": "SRP171601", "place": "Luzon", "label": "sampled", "evidence": "picoeukaryotes diversity of the northeastern South China Sea during the Luzon winter bloom", "note": "Luzon is the bloom name/area."}
+{"id": "SRP171601", "place": "South China Sea", "label": "sampled", "evidence": "picoeukaryotes diversity of the northeastern South China Sea during the Luzon winter bloom", "note": "Luzon is the bloom name/area."}
+{"id": "ERP116250", "place": "Kam Kotia Mine", "label": "sampled", "evidence": "abandoned Cu/Zn Kam Kotia Mine, near Timmins, Ontario", "note": "Canada also appears as background but study site is in Canada."}
+{"id": "ERP116250", "place": "Timmins", "label": "sampled", "evidence": "abandoned Cu/Zn Kam Kotia Mine, near Timmins, Ontario", "note": "Canada also appears as background but study site is in Canada."}
+{"id": "ERP116250", "place": "Ontario", "label": "sampled", "evidence": "abandoned Cu/Zn Kam Kotia Mine, near Timmins, Ontario", "note": "Canada also appears as background but study site is in Canada."}
+{"id": "ERP116250", "place": "ON", "label": "sampled", "evidence": "abandoned Cu/Zn Kam Kotia Mine, near Timmins, Ontario", "note": "Canada also appears as background but study site is in Canada."}
+{"id": "ERP116250", "place": "Canada", "label": "sampled", "evidence": "abandoned Cu/Zn Kam Kotia Mine, near Timmins, Ontario", "note": "Canada also appears as background but study site is in Canada."}
+{"id": "DRP002783", "place": "Japan", "label": "sampled", "evidence": "12 forest sites along latitudinal gradient in Japan", "note": ""}
+{"id": "SRP166545", "place": "Pacific Ocean", "label": "sampled", "evidence": "Marine viral communities from the Deep Pacific Ocean", "note": ""}
+{"id": "SRP166545", "place": "Deep Pacific Ocean", "label": "sampled", "evidence": "Marine viral communities from the Deep Pacific Ocean", "note": ""}
+{"id": "SRP058955", "place": "Atacama Desert", "label": "sampled", "evidence": "Endolithic Microbial Communities from the Atacama Desert", "note": ""}
+{"id": "SRP219287", "place": "Qilian Mountain", "label": "sampled", "evidence": "Soil fungal community and diversity in Qilian Mountain of China", "note": ""}
+{"id": "SRP219287", "place": "China", "label": "sampled", "evidence": "Soil fungal community and diversity in Qilian Mountain of China", "note": ""}
+{"id": "SRP065986", "place": "Loki´s Castle Vent Field", "label": "sampled", "evidence": "microbial communities associated with active barite chimneys ... at the Loki´s Castle Vent Field", "note": "Barite Field is the site label."}
+{"id": "SRP065986", "place": "Barite Field", "label": "sampled", "evidence": "microbial communities associated with active barite chimneys ... at the Loki´s Castle Vent Field", "note": "Barite Field is the site label."}

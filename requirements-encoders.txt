@@ -1,0 +1,7 @@
+-r requirements.txt
+torch
+transformers
+gliner
+gliner2
+spacy
+# spaCy pipelines: python -m spacy download en_core_web_trf en_core_web_lg

@@ -1,0 +1,66 @@
+[
+{
+"id": "SRP294383",
+"both": [
+"Arctic"
+],
+"only_A": [
+"Alaskan"
+],
+"only_B": [
+"Alaskan Arctic"
+]
+},
+{
+"id": "ERP116408",
+"both": [],
+"only_A": [
+"Northern Portugal",
+"Porto of Leix\u00f5es"
+],
+"only_B": [
+"Leix\u00f5es",
+"Portugal"
+]
+},
+{
+"id": "SRP041660",
+"both": [],
+"only_A": [
+"Atlantic Oceans",
+"Southern"
+],
+"only_B": [
+"Southern and Atlantic Oceans"
+]
+},
+{
+"id": "ERP021493",
+"both": [
+"Anemone vent",
+"Axial Seamount",
+"Axial seamount"
+],
+"only_A": [
+"Pacific Ocean"
+],
+"only_B": [
+"northeast Pacific Ocean"
+]
+},
+{
+"id": "SRP114443",
+"both": [
+"China",
+"Lake Erie",
+"Lake Shenandoah",
+"Lake Tai",
+"Virginia"
+],
+"only_A": [],
+"only_B": [
+"Canada",
+"US"
+]
+}
+]
